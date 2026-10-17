@@ -101,10 +101,9 @@ Charts built from the pivot tables:
 ```
 .
 ├── README.md
-├── data/
-│   └── Employee_data.csv              # raw dataset
+├── Employee_data.csv              # raw dataset
 ├── Employee_Data_Analysis.xlsx        # cleaned data, summary stats, pivots, charts
-└── images/                            # chart screenshots used in this README
+└── images/                           # chart screenshots used in this README
 ```
 
 ## Tools Used
@@ -123,6 +122,6 @@ Charts built from the pivot tables:
 
 ## Author
 
-**Antony Wairia** - Founder of SAINT SYSTEMS, studying in the ALX Data Science Program. Based in Nakuru, Kenya.
+**Antony Wairia** -  ALX Data Science & machine learning student; taking part in the Edulumos Data science internship. Based in Nakuru, Kenya.
 
 GitHub: [@WAIRIADEV](https://github.com/WAIRIADEV)
